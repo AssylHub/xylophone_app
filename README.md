@@ -1,16 +1,23 @@
-# xylophone
+🎵 Xylophone App – Flutter
+Xylophone is a simple yet engaging Flutter app that allows users to play different sounds by tapping on colored containers. Built using the audioplayers package, this app features a clean, one-screen UI with 7 distinct containers, each producing a unique sound when clicked.
 
-A new Flutter project.
+🔧 Technologies Used:
 
-## Getting Started
+ - Flutter for app development
 
-This project is a starting point for a Flutter application.
+ - audioplayers package for sound playback
 
-A few resources to get you started if this is your first Flutter project:
+✨ Key Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🖼️ Simple UI with 7 colorful containers
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎶 Each container plays a unique sound on tap
+
+🔊 Smooth sound playback with audioplayers
+
+🎨 Clean and responsive design
+
+This app serves as a fun introduction to working with audio in Flutter and is a great example of a minimalist, interactive app for beginners.
+
+
+![Screenshot_1743953990](https://github.com/user-attachments/assets/1645d923-6bc3-4aad-ba1e-e0a5ecc71157)
